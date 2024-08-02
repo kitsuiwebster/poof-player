@@ -1,0 +1,22 @@
+# Compiled output
+/target/
+
+# Rust artifacts
+**/*.rs.bk
+
+# Environment configuration files
+.env
+
+# Editor backup files
+*~
+*.swp
+*.tmp
+
+# IDE/Editor specific files
+.vscode/
+
+# Log files
+*.log
+
+# Uncomment the following line if this is a library project
+Cargo.lock
