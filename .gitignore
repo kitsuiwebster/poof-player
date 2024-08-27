@@ -20,3 +20,9 @@
 
 # Uncomment the following line if this is a library project
 Cargo.lock
+
+
+# ++
+huh.rs
+test0.mp3
+test1.mp3
